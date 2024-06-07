@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+>  <div class="wordwrap">You can also find my articles on <a href="https://www.researchgate.net/profile/Peng-Tang-6" target="_blank">my ResearchGate profile</a>.</div>
 
-{% include base_path %}
+\* Corresponding author
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ol>
+<li>Wancen Xie; Peng Tang; Qidong Wu; Chen Chen; <b>Zhaoyang Song</b>; Tong Li; Yuhua Bai; Shihong Lin; Alberto Tiraferri; Baicang Liu*, <font color="#FF4858">Solar-driven desalination and resource recovery of shale gas wastewater by on-site interfacial evaporation</font>. <i>Chemical Engineering Journal</i>, 2021. <a href="https://doi.org/10.1016/j.cej.2021.132624" target="_blank">https://doi.org/10.1016/j.cej.2021.132624</a></li>
+</ol>
