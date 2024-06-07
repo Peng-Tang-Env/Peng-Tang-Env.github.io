@@ -6,8 +6,9 @@ redirect_from:
   - /cv
 ---
 
+{% include base_path %}
 
-# Edu
+# Education
 
 - Ph.D in Civil Engineering, Sichuan University, 2022
 
