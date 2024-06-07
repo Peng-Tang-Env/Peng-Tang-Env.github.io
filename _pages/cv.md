@@ -6,7 +6,6 @@ redirect_from:
   - /resume
 ---
 
-# Education
 
 - Ph.D in Civil Engineering, Sichuan University, 2022
 
