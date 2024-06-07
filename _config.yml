@@ -12,7 +12,7 @@ title                    : "Peng Tang 唐鹏"
 title_separator          : "-"
 name                     : &name "Peng Tang 唐鹏"
 description              : &description "Academic Pages"
-url                      : https://peng-tang-env.github.io/
+url                      : https://peng-tang-env.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Peng-Tang-Env/Peng-Tang-Env.github.io"
 
