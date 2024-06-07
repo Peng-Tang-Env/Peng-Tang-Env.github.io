@@ -6,6 +6,7 @@ redirect_from:
   - /resume
 ---
 
+# Education
 
 - Ph.D in Civil Engineering, Sichuan University, 2022
 
@@ -17,4 +18,4 @@ redirect_from:
 
 # Work experience
 
-<div><i><p style="text-align:right;">2022 - present</p></i><b>Sichuan University - The Hong Kong Polytechnie University, Institule for Disaster Management and Reconstruction<br/>四川大学-香港理工大学，灾后重建与管理学院</b><br/>&ensp; &ensp; Assistant researcher 助理研究员<div/>
+<i><p style="text-align:right;">2022 - present</p></i><b>Sichuan University - The Hong Kong Polytechnie University, Institule for Disaster Management and Reconstruction<br/>四川大学-香港理工大学，灾后重建与管理学院</b><br/>&ensp; &ensp; Assistant researcher 助理研究员
