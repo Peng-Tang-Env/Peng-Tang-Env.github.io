@@ -1,11 +1,11 @@
 ---
 permalink: /
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 Tang Peng is a postdoctoral researcher at the Institute for Disaster  Management and Reconstruction, Sichuan University, China. He received  his Ph.D from Sichuan University in 2022. His scientific research mainly focuses on the research of water pollution prevention and control  technology, and drinking water safeguarding technology in  disaster-stricken areas. He published more than 20 high-level academic  papers and participated in a number of national scientific research  projects.
 
