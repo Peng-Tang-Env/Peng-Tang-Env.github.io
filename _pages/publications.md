@@ -13,13 +13,14 @@ author_profile: true
 # <span id="2024">2024</span>
 
 <ol reversed start=26>
-    <li>Ye, J.; Wang. Y.; Cheng, X.; Chen, G.; Zhang, D.; Chen, X.; Chen, L.; <b><b>Tang, P.</b>*</b>; Xie, W.; Liu, B.*, <font color="#FF4858">Removal of 6-methylquinoline from shale gas wastewater using electrochemical carbon nanotubes filter</font>. <i>Chemosphere</i>, 2024. <a href="https://doi.org/10.1016/j.chemosphere.2024.142259" target="_blank">https://doi.org/10.1016/j.chemosphere.2024.142259</a></li>
+    <li>Ye, J.; Wang. Y.; Cheng, X.; Chen, G.; Zhang, D.; Chen, X.; Chen, L.; <b>Tang, P.*</b>; Xie, W.; Liu, B.*, <font color="#FF4858">Removal of 6-methylquinoline from shale gas wastewater using electrochemical carbon nanotubes filter</font>. <i>Chemosphere</i>, 2024. <a href="https://doi.org/10.1016/j.chemosphere.2024.142259" target="_blank">https://doi.org/10.1016/j.chemosphere.2024.142259</a></li>
     <li><b>Tang, P.</b>; Shu, J.; Xie, W.; Su, Y.; He, Q.; Liu, B.*, <font color="#FF4858">Characterizing Hazardous Substances of Shale Gas Wastewater from the Upper Yangtze River: A Focus on Heavy Metals and Organic Compounds</font>. <i>Journal of Hazardous Materials</i>, 2024. <a href="https://doi.org/10.1016/j.jhazmat.2024.133873" target="_blank">https://doi.org/10.1016/j.jhazmat.2024.133873</a></li>
 	<li><b>Tang, P.</b>; Zhong, C.; Zhang, D.; Wang, J.; Su, Y.; Liu, B.*, <font color="#FF4858">Microbial Insights into Shale Gas Wastewater from Sichuan Basin: Diversity, Potential Functions, and Implications</font>. <i>Energy & Fuels</i>, 2024. <a href="https://doi.org/10.1021/acs.energyfuels.3c04325" target="_blank">https://doi.org/10.1021/acs.energyfuels.3c04325</a></li>
     <li>Liao, Q.#; Zhang, C.#; <b>Tang, P.*</b>; Shu, J.; Wu, Q.; Liu, B.*, <font color="#FF4858">Efficiency and mechanisms of biochar aerogels-assisted biodegradation of taste & odor compounds in a one-step membrane bioreactor for rural  drinking water production</font>. <i>Journal of Cleaner Production</i>, 2024. <a href="https://doi.org/10.1016/j.jclepro.2023.140425" target="_blank">https://doi.org/10.1016/j.jclepro.2023.140425</a></li>
 	<li>Shu, J.; Wu, Q.; Ren, X.; <b>Tang, P.</b>; Chen, G.; Cheng, X.; Chen, C.; Tiraferri, A.; Liu, B.*, <font color="#FF4858">Efficiency and mechanisms of biochar aerogels-assisted biodegradation of taste  & odor compounds in a one-step membrane bioreactor for rural  drinking water production</font>. <i>ACS ES&T Engineering</i>, 2024. <a href="https://doi.org/10.1021/acsestengg.3c00233" target="_blank">https://doi.org/10.1021/acsestengg.3c00233</a></li>
 	<li>Zhang, D.; <b>Tang, P.</b>; Chen, G.; Su, Y.; Ye, J.; Zhu, M.; Tao, W.; Ruan, X.; Liu, L.; Liu, B.*, <font color="#FF4858">Enhanced Organic Matter Degradation in Shale Gas Wastewater Treatment Using  Biofilm-Membrane Bioreactors with Varied Filler Types, Pre-ozonation,  and Filler Ratios</font>. <i>Separation and Purification Technology</i>, 2024. <a href="https://doi.org/10.1016/j.seppur.2023.125616" target="_blank">https://doi.org/10.1016/j.seppur.2023.125616</a></li>
 </ol>
+
 
 
 # <span id="2023">2023</span>
@@ -60,7 +61,6 @@ author_profile: true
 	<li>Xie, W.; Tiraferri, A.; Liu, B.*; <b>Tang, P.</b>; Wang, F.; Chen, S.; Figoli, A.; Chu, L.-Y., <font color="#FF4858">First Exploration on Poly (vinyl chloride) Ultrafiltration Membrane Prepared by Using the Sustainable Green Solvent PolarClean</font>. <i>ACS Sustainable Chemistry & Engineering</i>, 2020. <a href="https://doi.org/10.1021/acssuschemeng.9b04287" target="_blank">https://doi.org/10.1021/acssuschemeng.9b04287</a></li>
     <li>Li, J.#; Chang, H.#; <b>Tang, P.</b>; Shang, W.; He, Q.; Liu, B.*, <font color="#FF4858">Effects of membrane property and hydrostatic pressure on the performance of gravity-driven membrane for shale gas flowback and produced water treatment</font>. <i>Journal of Water Process Engineering</i>, 2020. <a href="https://doi.org/10.1016/j.jwpe.2019.101117" target="_blank">https://doi.org/10.1016/j.jwpe.2019.101117</a></li>
 </ol>
-
 
 
 
