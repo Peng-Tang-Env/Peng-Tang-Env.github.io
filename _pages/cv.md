@@ -14,7 +14,6 @@ redirect_from:
 
 - B.Sc. in Water Science and Technology, Sichuan University, 2018<br/>四川大学给排水科学与工程本科
 
-
 # Work experience
 
 <b>Sichuan University - The Hong Kong Polytechnie University, Institule for Disaster Management and Reconstruction<br/>四川大学-香港理工大学，灾后重建与管理学院</b><br/>&ensp; &ensp; Assistant researcher 助理研究员 <i>(2022 - present)</i>
