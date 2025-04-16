@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 唐鹏 / Tang Peng, Ph.D.
+# 唐鹏博士/Peng Tang, Ph.D.
 ## 🔬 研究方向：废水减污降碳与资源化利用技术
 - **废水水质解析与特征污染物识别**  
 - **废水零排放工艺开发与膜污染控制**   
