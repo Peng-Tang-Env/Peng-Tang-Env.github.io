@@ -6,7 +6,66 @@ redirect_from:
   - /about.html
 ---
 
+# 唐鹏 / Tang Peng, Ph.D.
+**四川大学副研究员（专职科研）** | **研究方向：** 废水减污降碳与资源化利用技术  
 
-Tang Peng is a postdoctoral researcher at the Institute for Disaster  Management and Reconstruction, Sichuan University, China. He received  his Ph.D from Sichuan University in 2022. His scientific research mainly focuses on the research of water pollution prevention and control  technology, and drinking water safeguarding technology in  disaster-stricken areas. He published more than 20 high-level academic  papers and participated in a number of national scientific research  projects.
+---
 
-唐鹏，工学博士，四川大学副研究员（专职科研）。2022年博士毕业于四川大学，主要从事水污染防控技术及灾区饮水安全保障技术的研究，具体研究方向包括高盐油气田废水风险评估及无害化处理技术、灾区饮水安全保障技术、突发水灾害应急处理技术，发表高水平学术论文20余篇，主研多项国家级项目。
+## 🔬 研究方向
+- **废水水质解析**  
+  特征污染物识别与迁移转化机制  
+- **零排放工艺开发**  
+  膜污染控制与新型脱盐技术  
+- **生物强化系统**  
+  功能菌群构建与代谢调控机制  
+- **新兴技术研发**  
+  ☀️ 太阳驱动界面蒸发 | ⚡ 废水锂资源回收  
+
+---
+
+## 🏆 科研项目
+### 主持项目
+1. **国家自然科学基金青年基金**  
+   "页岩气废水反渗透浓水有机物在氧化-生物耦合系统中的降解机制"  
+   `52300101` | 2024-2026 | 30万元  
+2. **国家资助博士后研究人员计划（C档）**  
+   `GZC20231776` | 2024-2025 | 24万元  
+3. **四川省自然科学基金青年基金**  
+   "复合菌群强化MBR处理页岩气废水反渗透浓水研究"  
+   `2024NSFSC0887` | 2024-2025 | 10万元  
+4. **中国博士后科学基金面上项目**  
+   `2023M742453` | 2023-2025 | 8万元  
+
+### 骨干参与
+- 国家自然科学基金面上项目等国家级/省部级/教改项目/校企合作项目10余项   
+
+---
+
+## 📚 研究成果
+### 学术论文
+- **总计发表**：40篇
+- **一作/通讯**：14篇  
+  - 🏅 中科院一区TOP期刊12篇  
+  - 🌐 Nature Index期刊1篇  
+  - 🖼️ 封面论文1篇  
+
+### 知识产权
+- 授权实用新型专利2项  
+
+---
+
+## 🎖️ 荣誉奖励
+| 年份 | 荣誉名称                                 |
+| ---- | ---------------------------------------- |
+| 2024 | 欧阳明高院士工作站青年人才发展基金       |
+| 2023 | 第五届钱易环境奖**二等奖**               |
+| 2022 | 四川大学第十三届研究生"**十佳学术之星**" |
+| 2021 | 水处理先进膜技术论坛**优秀报告奖**       |
+
+---
+
+## 🌐 学术服务
+- **期刊编辑**  
+  《Sustainability》特刊"*Sustainable Solutions for Wastewater Treatment*"客座编辑  
+- **审稿人**  
+  《Separation and Purification Technology》《Science of the Total Environment》等SCI期刊 
