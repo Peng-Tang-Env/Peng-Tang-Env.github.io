@@ -18,4 +18,4 @@ redirect_from:
 
 - Assistant researcher/Postdoctor, Sichuan University - The Hong Kong Polytechnie University Institule for Disaster Management and Reconstruction, 2022-2024<br/>助理研究员/博士后，四川大学-香港理工大学灾后重建与管理学院，2022-2024
 
-- Associate researcher, Sichuan University - The Hong Kong Polytechnie University Institule for Disaster Management and Reconstruction, 2024-2025<br/>副研究员，四川大学-香港理工大学灾后重建与管理学院，2024-2025
+- Associate researcher, Sichuan University - The Hong Kong Polytechnie University Institule for Disaster Management and Reconstruction, 2024-2025<br/>副研究员（专职科研），四川大学-香港理工大学灾后重建与管理学院，2024-2025
